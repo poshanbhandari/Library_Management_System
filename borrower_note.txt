@@ -1,0 +1,6 @@
+Borrower Name:-	poshan bhandari	
+
+Book ID	Book Name	Book Author	 Price
+B001	Harry Potter	JK Rowling	$2
+*******************************************************
+the total price is				$2.0
