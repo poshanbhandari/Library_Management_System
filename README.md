@@ -4,3 +4,11 @@ This Program has the features like  showing the books records, allows the user t
 fine if returned late.
 
 It also generates the files onces the user borrow the books or return it.
+
+Borrowed NOTE:
+
+![](images/borrower.png)
+
+Return NOTE:
+
+![](images/return.png)
